@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet6WithGithubActions", "DotNet6WithGithubActions\DotNet6WithGithubActions.csproj", "{5EFF9C72-EEA7-445E-9F2B-E6BB3B3E1DB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EFF9C72-EEA7-445E-9F2B-E6BB3B3E1DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EFF9C72-EEA7-445E-9F2B-E6BB3B3E1DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EFF9C72-EEA7-445E-9F2B-E6BB3B3E1DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFF9C72-EEA7-445E-9F2B-E6BB3B3E1DB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E1175F9-0B5E-48C1-9128-00E2B980B610}
+	EndGlobalSection
+EndGlobal
